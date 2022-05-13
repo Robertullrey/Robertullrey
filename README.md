@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Robertullrey
-- 🌱 I’m currently learning html and latex coding. I know, old school stuff.
+- 🌱 I’m currently working in html and latex coding. I know, old school stuff. Vim fan.
 
 <!---
 Robertullrey/Robertullrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
